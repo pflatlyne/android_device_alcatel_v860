@@ -1,3 +1,12 @@
+This is to become 
+android_device_zte_pascal It is derived from the ALcatel v860 port.(which I dont even know actually works on a 860,but Ill give it a go)
+
+
+
+
+
+
+
 Device Alcatel v860
 ===============
 
